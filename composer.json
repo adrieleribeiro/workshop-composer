@@ -11,6 +11,8 @@
     "support": {
         "issues": "https://github.com/adrieleribeiro/workshop-composer/issues"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "vlucas/phpdotenv": "^3.6"
     },
